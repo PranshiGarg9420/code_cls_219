@@ -8,6 +8,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+.background_red {
+  background-color: #f6484a;
+}
+
 * {
   margin: 0;
   padding: 0;
